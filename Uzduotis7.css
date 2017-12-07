@@ -1,0 +1,24 @@
+.jumbotron{
+  height: 40px;
+  padding: 10px;
+}
+.col-md-4{
+  border: 1px solid lightgrey;
+  padding: 5px 5px;
+
+}
+.container-text{
+  text-align: center;
+}
+.h3{
+  padding: 20px;
+}
+i{
+  color: darkblue;
+}
+{
+  color: black;
+}
+#footer{
+  color: darkgrey;
+}
